@@ -12,7 +12,7 @@ from a database.
 You’ll analyze local and global temperature data and compare
 the temperature trends where you live to overall global temperature trends.
 
-[Link to report](Term1/Project0/Exploring%Weather%Trends.pdf)
+[Link to report](Term1/Project0/Exploring_Weather_Trends.pdf)
 
 
 ### Project1: Explore US Bikeshare Data
@@ -41,7 +41,7 @@ and finishing by sharing your findings.
 Understand test results of A/B test run by an e-commerce
 website.
 
-[Link to Python Notebook](Term1/Project3/Analyze%ab%test%results%notebook.ipynb)
+[Link to Python Notebook](Term1/Project3/Analyze_ab_test_results_notebook.ipynb)
 
 ## Term2
 
@@ -53,7 +53,7 @@ the Stroop effect, a classic result of experimental psychology.
 Communicate your understanding of the data and use statistical
 inference to draw a conclusion based on the results.
 
-[Link to Python Notebook](Term2/Project0/Test%a%Perceptual%Phenomenon.ipynb)
+[Link to Python Notebook](Term2/Project0/Test_a_Perceptual_Phenomenon.ipynb)
 
 ### Project1: Explore and Summarize Data
 
@@ -71,8 +71,8 @@ Document your wrangling efforts in a Jupyter Notebook, plus showcase
 them through analyses and visualizations using Python (and its libraries)
 and/or SQL.
 
-[Link to report wrangle report](Term2/Project2/wrangle_report.pdf)<br>
-[Link to act report](Term2/Project2/act_report.pdf)<br>
+[Link to report wrangle report](Term2/Project2/wrangle_report.pdf)<br/>
+[Link to act report](Term2/Project2/act_report.pdf)<br/>
 [Link to Python Notebook](Term2/Project2/wrangle_act.ipynb)
 
 ### Project3: Create a Tableau Story
