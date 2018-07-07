@@ -12,7 +12,7 @@ from a database.
 You’ll analyze local and global temperature data and compare
 the temperature trends where you live to overall global temperature trends.
 
-[Link to report](Term1/Project0/Exploring Weather Trends.pdf)
+[Link to report](Term1/Project0/Exploring%Weather%Trends.pdf)
 
 
 ### Project1: Explore US Bikeshare Data
@@ -41,7 +41,7 @@ and finishing by sharing your findings.
 Understand test results of A/B test run by an e-commerce
 website.
 
-[Link to Python Notebook](Term1/Project3/Analyze_ab_test_results_notebook.ipynb)
+[Link to Python Notebook](Term1/Project3/Analyze%ab%test%results%notebook.ipynb)
 
 ## Term2
 
@@ -53,14 +53,14 @@ the Stroop effect, a classic result of experimental psychology.
 Communicate your understanding of the data and use statistical
 inference to draw a conclusion based on the results.
 
-[Link to Python Notebook](Term2/Project0/Analyze_ab_test_results_notebook.ipynb)
+[Link to Python Notebook](Term2/Project0/Test%a%Perceptual%Phenomenon.ipynb)
 
 ### Project1: Explore and Summarize Data
 
 Use R and apply exploratory data analysis techniques to explore
 a selected data set for distributions, outliers, and anomalies.
 
-[Link to Report](Term2/Project1/redwine_Quality.html)
+[Link to code](Term2/Project1/redwine_Quality.rmd)
 
 ### Project2: Wrangle and Analyze Data
 
@@ -71,8 +71,8 @@ Document your wrangling efforts in a Jupyter Notebook, plus showcase
 them through analyses and visualizations using Python (and its libraries)
 and/or SQL.
 
-[Link to report wrangle report](Term2/Project2/wrangle_report.pdf)
-[Link to act report](Term2/Project2/act_report.pdf)
+[Link to report wrangle report](Term2/Project2/wrangle_report.pdf)<br>
+[Link to act report](Term2/Project2/act_report.pdf)<br>
 [Link to Python Notebook](Term2/Project2/wrangle_act.ipynb)
 
 ### Project3: Create a Tableau Story
@@ -84,5 +84,5 @@ Your work should be a reflection of the theory and practice of data
 visualization, harnessing visual encodings and design principles
 for effective communication.
 
-[Link to report](Term2/Project3/writeup.pdf)
+[Link to report](Term2/Project3/writeup.pdf)<br>
 [Link to Tableau visualization](https://public.tableau.com/profile/fb8468#!/vizhome/project_4_2/Story_v4?publish=yes)
